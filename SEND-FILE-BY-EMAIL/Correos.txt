@@ -1,0 +1,3 @@
+correo1@gmail.com | correo2@gmail.com 
+
+De esta forma van los correos ordenados

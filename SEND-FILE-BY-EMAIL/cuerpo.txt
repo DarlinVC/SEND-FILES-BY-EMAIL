@@ -1,0 +1,5 @@
+REPORTE DE VENTAS DEL PERIODO
+REPORTE_VENTAS.xlsx
+
+primera linea titulo
+segunda linea archivo
